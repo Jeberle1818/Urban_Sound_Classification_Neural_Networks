@@ -1,5 +1,7 @@
 ## Urban Sound Classification 
 
+Contains Python Notebooks that use a simple Neural Network (NN), a convolutional Neural Network (CNN), and a recurrent
+neural network (RNN), and discussion of the benefits and drawbacks of each respective method.
 
 <p align="center"><img src="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/urban-sound-spectrogram.png"/></p>
 
